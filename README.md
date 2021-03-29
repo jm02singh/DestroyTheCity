@@ -1,2 +1,2 @@
-# DestroyTheCity
-Press Space and the bobs will launch and destroy the city.
+# p5.play-boilerplate
+Boiler plate for p5.play
